@@ -1,8 +1,6 @@
 import React from 'react';
 
 const Card = ({ children, id, className, draggable }) => {
-  console.log('uiuiui')
-
   const dragStart = e => {
     const target = e.target;
     e.dataTransfer.setData('card_id', target.id);
