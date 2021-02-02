@@ -1,4 +1,4 @@
-React Drag and Drop project.
+React Drag and Drop project. [In progress]
 
 Due to time constraints, it isn't a 100% ready, but I will continue to work on it.
 
